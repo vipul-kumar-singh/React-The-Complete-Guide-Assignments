@@ -1,0 +1,11 @@
+### VS Code ###
+.vscode/
+Compressed
+
+### Node Modules ###
+01-base-syntax--assignment-problem/node_modules
+
+### Distributions ###
+
+
+### Cache ###
